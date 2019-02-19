@@ -7,3 +7,7 @@ bbbb
 0000000
 333333
 33322233
+add some changes to hello.txt
+77777777
+DDDDDD
+
